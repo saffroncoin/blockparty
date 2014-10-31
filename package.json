@@ -6,7 +6,7 @@
   "main": "build/index.html",
   "repository": { 
     "type" : "git",
-    "url" : "https://github.com/CounterpartyXCP/blockparty.git"
+    "url" : "https://github.com/saffroncoin/blockparty.git"
   },
   "dependencies": {
     "grunt": "0.4.1",
