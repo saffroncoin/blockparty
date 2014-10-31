@@ -7,11 +7,11 @@
     "knockout-validation": "1.0.2"
   },
   "version": "0.0.1",
-  "homepage": "https://github.com/CounterpartyXCP/blockparty",
+  "homepage": "https://github.com/saffroncoin/blockparty",
   "authors": [
     "Tyler Eaves <tylere@counterparty.co>"
   ],
-  "description": "Block explorer",
+  "description": "SFRDirect Block explorer",
   "main": "index.html",
   "license": "unsure",
   "private": true,
